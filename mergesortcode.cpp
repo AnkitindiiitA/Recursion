@@ -87,3 +87,8 @@ int32_t main(){
      return 0;
 }
 
+//space complexity = O(n);
+//time complexity = O(n*log(n));
+//H/W = inversion count + applications of mergesort(gfg)
+
+
