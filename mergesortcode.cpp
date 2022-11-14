@@ -76,6 +76,8 @@ int32_t main(){
      int lo=0;
      int hi=n-1;
      mergeSort(v,lo,hi);
+     
+     //H/W = inversion count + applications of mergesort(gfg)
 
      for(int i=0;i<n;i++)cout<<v[i]<<" ";
      cout<<endl;
