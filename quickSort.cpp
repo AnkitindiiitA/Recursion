@@ -71,3 +71,5 @@ int32_t main(){
 
 //H/W = is it in-place sorting technique?
 // is it a stable algorithm?
+//space = O(n)
+//time = O(n*log(n)) , worst case time = O(n^2) 
